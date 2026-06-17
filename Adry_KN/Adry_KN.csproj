@@ -127,7 +127,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="EF\Model1.Context.cs" />
+    <Compile Include="EF\spIniciarSesion_Result.cs" />
     <Compile Include="EF\tbError.cs" />
     <Compile Include="EF\tbUsuario.cs" />
     <Compile Include="Models\UsuarioModel.cs" />
@@ -167,7 +169,9 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\index.js" />
     <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\registro.js" />
     <Content Include="Scripts\perfect-scrollbar.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
     <Content Include="Scripts\bootstrap.esm.min.js" />
